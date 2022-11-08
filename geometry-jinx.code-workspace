@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "jogo-main",
+			"path": "jogo-main/jogo-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
